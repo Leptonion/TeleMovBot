@@ -1,0 +1,6 @@
+# Reminder database
+remind.db
+
+#venv
+.venv
+venv/
